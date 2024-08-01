@@ -1,3 +1,5 @@
 # python
-it is object oriented programming language
-easy to understand
+it is object oriented programming language <br>
+easy to understand <br>
+dynamic <br>
+free 
